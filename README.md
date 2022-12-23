@@ -1,27 +1,28 @@
-# PaisesApp
+# App sobre Países en Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+Proyecto de Países en Angular
 
-## Development server
+## Link del proyecto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<https://paises-app-skierhy.netlify.app/>
 
-## Code scaffolding
+## Instrucciones para el proyecto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Hacer el build del proyecto
+`npm run build`
 
-## Build
+Correr el proyecto
+`npm run start`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologías utilizadas en este proyecto
 
-## Running unit tests
+- Angular
+- bootstrap
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Imágenes de proyecto
 
-## Running end-to-end tests
+[![1.png](https://i.postimg.cc/NjgcdpXD/1.png)](https://postimg.cc/3dbVRjn0)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![2.png](https://i.postimg.cc/QtZSqn9x/2.png)](https://postimg.cc/rdgSVjNv)
